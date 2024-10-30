@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: loading-page\n"
+"POT-Creation-Date: 2024-07-22 04:07+0200\n"
+"PO-Revision-Date: 2024-07-22 04:07+0200\n"
+"Last-Translator: CodePeople\n"
+"Language-Team: CodePeople\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: loading-page.php:288
+msgid "Request custom changes"
+msgstr ""
+
+#: loading-page.php:292
+msgid "Settings"
+msgstr ""
+
+#: loading-page.php:307
+msgid "Help"
+msgstr ""
+
+#: loading-page.php:735
+msgid "The Loading Page has been stored successfully"
+msgstr ""
+
+#: loading-page.php:737
+msgid "The Loading Page settings could not be stored"
+msgstr ""
+
+#: loading-page.php:786
+msgid "Loading Page Settings"
+msgstr ""
+
+#: loading-page.php:788
+msgid "Video Tutorial"
+msgstr ""
+
+#: loading-page.php:792
+msgid "Video tutorial"
+msgstr ""
+
+#: loading-page.php:797
+msgid "Loading Screen"
+msgstr ""
+
+#: loading-page.php:799
+msgid ""
+"If you want test the premium version of Loading Page go to the following "
+"links:"
+msgstr ""
+
+#: loading-page.php:799
+msgid "Administration area: Click to access the administration area demo"
+msgstr ""
+
+#: loading-page.php:800
+msgid "Public page: Click to access the Loading Page"
+msgstr ""
+
+#: loading-page.php:801
+msgid "If you need additional help"
+msgstr ""
+
+#: loading-page.php:806
+msgid ""
+"Displays a loading screen until the webpage is ready, the screen shows the "
+"loading percent."
+msgstr ""
+
+#: loading-page.php:813 loading-page.php:814
+msgid "Enable loading screen"
+msgstr ""
+
+#: loading-page.php:817 loading-page.php:818
+msgid "Show loading screen when clicking on link"
+msgstr ""
+
+#: loading-page.php:818
+msgid ""
+"Display the loading screen as soon as the link on the current page is "
+"clicked, and not only when the next page is loaded."
+msgstr ""
+
+#: loading-page.php:818
+msgid ""
+"Apply the class name \"no-loading-screen\" to the links you want to exclude "
+"from this behavior."
+msgstr ""
+
+#: loading-page.php:821 loading-page.php:822
+msgid "Display a close screen button"
+msgstr ""
+
+#: loading-page.php:825
+msgid "Hide the loading screen in the window onload event"
+msgstr ""
+
+#: loading-page.php:826
+msgid "Hide the loading screen in the onload event"
+msgstr ""
+
+#: loading-page.php:826
+msgid ""
+"Hides the loading screen in the onload event of window - or - as soon as "
+"possible"
+msgstr ""
+
+#: loading-page.php:829
+msgid "Display the loading screen on"
+msgstr ""
+
+#: loading-page.php:831
+msgid "Screen size"
+msgstr ""
+
+#: loading-page.php:841
+msgid "All Screens"
+msgstr ""
+
+#: loading-page.php:851
+msgid "Greater Than"
+msgstr ""
+
+#: loading-page.php:861
+msgid "Lesser Than"
+msgstr ""
+
+#: loading-page.php:872
+msgid "Width"
+msgstr ""
+
+#: loading-page.php:873
+msgid "Screen width"
+msgstr ""
+
+#: loading-page.php:887
+msgid "Display the loading screen"
+msgstr ""
+
+#: loading-page.php:899
+msgid "Always"
+msgstr ""
+
+#: loading-page.php:899
+msgid "always"
+msgstr ""
+
+#: loading-page.php:900
+msgid "Once per session"
+msgstr ""
+
+#: loading-page.php:900
+msgid "once per session"
+msgstr ""
+
+#: loading-page.php:901
+msgid "Once per page"
+msgstr ""
+
+#: loading-page.php:901
+msgid "once per page"
+msgstr ""
+
+#: loading-page.php:906
+msgid "Display loading screen in"
+msgstr ""
+
+#: loading-page.php:908
+msgid "Homepage"
+msgstr ""
+
+#: loading-page.php:908
+msgid "homepage only"
+msgstr ""
+
+#: loading-page.php:910
+msgid "All pages"
+msgstr ""
+
+#: loading-page.php:910
+msgid "all pages"
+msgstr ""
+
+#: loading-page.php:913
+msgid ""
+"Display the loading screen only on pages with the URLs (If this field is "
+"left empty, the loading screen will be displayed on all pages.)"
+msgstr ""
+
+#: loading-page.php:914
+msgid "URLs of the pages to include"
+msgstr ""
+
+#: loading-page.php:920 loading-page.php:989
+msgid "Enter a URL per row (use the * symbol as wildcard)"
+msgstr ""
+
+#: loading-page.php:924
+msgid "Specific pages"
+msgstr ""
+
+#: loading-page.php:924
+msgid "specific pages"
+msgstr ""
+
+#: loading-page.php:926
+msgid "Pages/posts ids"
+msgstr ""
+
+#: loading-page.php:930 loading-page.php:972 loading-page.php:1181
+msgid "Type one, or more post/pages IDs, separated by commas \",\""
+msgstr ""
+
+#: loading-page.php:934
+msgid "specific post types"
+msgstr ""
+
+#: loading-page.php:936
+msgid "Post types"
+msgstr ""
+
+#: loading-page.php:940
+msgid "Type one or more post types, separated by commas \",\""
+msgstr ""
+
+#: loading-page.php:946
+msgid "Devices"
+msgstr ""
+
+#: loading-page.php:948
+msgid "Display the loading screen only on the desktop"
+msgstr ""
+
+#: loading-page.php:951
+msgid "Display the loading screen only on desktops"
+msgstr ""
+
+#: loading-page.php:952 loading-page.php:955
+msgid "Display the loading screen only on mobiles"
+msgstr ""
+
+#: loading-page.php:956 loading-page.php:959
+msgid "Display the loading screen on both desktops and mobiles"
+msgstr ""
+
+#: loading-page.php:968
+msgid "Exclude loading screen from"
+msgstr ""
+
+#: loading-page.php:969 loading-page.php:1181
+msgid "Pages/posts ids separated by comma"
+msgstr ""
+
+#: loading-page.php:975
+msgid "Exclude loading screen from post types"
+msgstr ""
+
+#: loading-page.php:976
+msgid "Post types separated by comma"
+msgstr ""
+
+#: loading-page.php:979
+msgid "Type one, or more post/pages types, separated by commas \",\""
+msgstr ""
+
+#: loading-page.php:982
+msgid "Exclude loading screen from pages with the URL"
+msgstr ""
+
+#: loading-page.php:983
+msgid "URLs of the pages to exclude"
+msgstr ""
+
+#: loading-page.php:994
+msgid ""
+"Exclude the loading screen if Elementor Maintenance or Coming Soon modes are "
+"enabled"
+msgstr ""
+
+#: loading-page.php:995
+msgid "Disable the loading screen from Coming Soon or Maintenance modes"
+msgstr ""
+
+#: loading-page.php:1005
+msgid "Select the loading screen"
+msgstr ""
+
+#: loading-page.php:1007
+msgid "Loading screen"
+msgstr ""
+
+#: loading-page.php:1016
+msgid ""
+"The free version of the plugin includes the \"Bar\", \"Logo\", and \"Text\" "
+"screens. If they are not sufficient to your website, the commercial version "
+"of the plugin includes additional loading screens."
+msgstr ""
+
+#: loading-page.php:1017 loading-page.php:1117 loading-page.php:1165
+msgid "CLICK HERE"
+msgstr ""
+
+#: loading-page.php:1032
+msgid "Select foreground color"
+msgstr ""
+
+#: loading-page.php:1033
+msgid "Foreground color"
+msgstr ""
+
+#: loading-page.php:1041
+msgid "Select background color"
+msgstr ""
+
+#: loading-page.php:1043
+msgid "Background color"
+msgstr ""
+
+#: loading-page.php:1047
+msgid "Apply transparency"
+msgstr ""
+
+#: loading-page.php:1052
+msgid "Select image as background"
+msgstr ""
+
+#: loading-page.php:1054
+msgid "Background image"
+msgstr ""
+
+#: loading-page.php:1059
+msgid "Background position"
+msgstr ""
+
+#: loading-page.php:1077
+msgid "Display image in fullscreen"
+msgstr ""
+
+#: loading-page.php:1079
+msgid "Fullscreen"
+msgstr ""
+
+#: loading-page.php:1080
+msgid "(The fullscreen attribute can fail in some browsers)"
+msgstr ""
+
+#: loading-page.php:1084 loading-page.php:1086
+msgid "Additional seconds"
+msgstr ""
+
+#: loading-page.php:1090
+msgid "Show the loading screen some few seconds after loading the page"
+msgstr ""
+
+#: loading-page.php:1094
+msgid "Include an ad, or your own block of code"
+msgstr ""
+
+#: loading-page.php:1096
+msgid "Ad or block of code"
+msgstr ""
+
+#: loading-page.php:1100
+msgid "Trick"
+msgstr ""
+
+#: loading-page.php:1101
+msgid ""
+"As the block of code you can insert a pair of &lt;style&gt;&lt;/style&gt; "
+"tags to customize the appearance of loading screen. For example: for "
+"changing the font-family of the loading text:  <b>&lt;style&gt;.lp-screen-"
+"text{font-family:Georgia !important;}&lt;/style&gt;</b>"
+msgstr ""
+
+#: loading-page.php:1105
+msgid "Apply the effect on page"
+msgstr ""
+
+#: loading-page.php:1107
+msgid "Animation effect"
+msgstr ""
+
+#: loading-page.php:1117
+msgid ""
+"The premium version of plugin add the following effects: collapseIn, "
+"risingFromBottom, expandIn, fadeIn, fallFromTop, rotateInLeft, "
+"rotateInRight, rotateInRightWithoutToKeyframe, slideInSkew, tumbleIn, "
+"whirlIn."
+msgstr ""
+
+#: loading-page.php:1121 loading-page.php:1122
+msgid "Display loading percent"
+msgstr ""
+
+#: loading-page.php:1126
+msgid "Troubleshoot Area - Loading Screen"
+msgstr ""
+
+#: loading-page.php:1129
+msgid "Disable the search in deep"
+msgstr ""
+
+#: loading-page.php:1131
+msgid "Disable search in deep"
+msgstr ""
+
+#: loading-page.php:1131
+msgid "If the loading screen stops in some percentage, tick the checkbox"
+msgstr ""
+
+#: loading-page.php:1135
+msgid "The pages' background is visible"
+msgstr ""
+
+#: loading-page.php:1137
+msgid "Tick if page visible"
+msgstr ""
+
+#: loading-page.php:1137
+msgid ""
+"If website's background is visible before the loading screen, tick the "
+"checkbox"
+msgstr ""
+
+#: loading-page.php:1142
+msgid ""
+"You have ticked the box \"show loading screen on link click\", but the "
+"loading screen disappears too quickly, before loading the content of the "
+"next page."
+msgstr ""
+
+#: loading-page.php:1143
+msgid "Loading screen disappear too quickly"
+msgstr ""
+
+#: loading-page.php:1143
+msgid "Do not hide the loading screen"
+msgstr ""
+
+#: loading-page.php:1144
+msgid "- or close after "
+msgstr ""
+
+#: loading-page.php:1145
+msgid "Close after X seconds"
+msgstr ""
+
+#: loading-page.php:1146
+msgid "seconds"
+msgstr ""
+
+#: loading-page.php:1154
+msgid "Lazy Loading"
+msgstr ""
+
+#: loading-page.php:1159
+msgid ""
+"To load only the images visible in the viewport to improve the loading rate "
+"of your website and reduce the bandwidth consumption."
+msgstr ""
+
+#: loading-page.php:1165
+msgid ""
+"The lazy loading of images is available only in the commercial version of "
+"plugin."
+msgstr ""
+
+#: loading-page.php:1167
+msgid "Lazy loading chart"
+msgstr ""
+
+#: loading-page.php:1170 loading-page.php:1171
+msgid "Enable lazy loading"
+msgstr ""
+
+#: loading-page.php:1174
+msgid "Select the image to load by default"
+msgstr ""
+
+#: loading-page.php:1176
+msgid "Image to load by default"
+msgstr ""
+
+#: loading-page.php:1180
+msgid "Exclude lazy loading from"
+msgstr ""
+
+#: loading-page.php:1185
+msgid "Troubleshoot Area - Lazy Loading"
+msgstr ""
+
+#: loading-page.php:1188
+msgid "Exclude images whose tag includes the class or attribute"
+msgstr ""
+
+#: loading-page.php:1190
+msgid "Class or attributes names"
+msgstr ""
+
+#: loading-page.php:1191
+msgid ""
+"Don't apply the lazy loading to the images with the classes or attributes "
+"(separated by commas \",\")"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:2
+msgid "Select the logo image (or any other image)"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:26
+msgid "Logo image"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:28
+msgid "Browse"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:33
+msgid "Grayscale to color effect"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:40
+msgid "Apply blink effect"
+msgstr ""
+
+#: loading-screens/logo/adminsection.php:81
+msgid "or select one of follows"
+msgstr ""
+
+#: loading-screens/text/adminsection.php:5
+msgid "Enter the website name or another short text"
+msgstr ""
+
+#: loading-screens/text/adminsection.php:29
+msgid "Website name or short text"
+msgstr ""
+
+#: loading-screens/text/adminsection.php:33
+#: loading-screens/text/adminsection.php:35
+msgid "Text color"
+msgstr ""
+
+#: loading-screens/text/adminsection.php:40
+#: loading-screens/text/adminsection.php:42
+msgid "Text background color"
+msgstr ""
